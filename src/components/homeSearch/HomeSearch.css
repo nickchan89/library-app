@@ -1,0 +1,10 @@
+/* .HomeSearch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+.HomeSearch__loading {
+  display: flex;
+  justify-content: center;
+}
